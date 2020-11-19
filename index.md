@@ -15,6 +15,7 @@
     <a href="https://goo.gl/maps/XUKS7YL3vAdz7Vpk6" target="_blank">Google Maps</a>
   </div>
 </div>
+<br>
 <div id="wrapper2" class="outer">
   <div id="first2" class="inner2">
     <h1>Email</h1>
