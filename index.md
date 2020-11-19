@@ -15,3 +15,14 @@
     <a href="https://goo.gl/maps/XUKS7YL3vAdz7Vpk6" target="_blank">Google Maps</a>
   </div>
 </div>
+<div id="wrapper2" class="outer">
+  <div id="first2" class="inner">
+    <h1>Email</h1>
+    <a href="mailto:redgranitechiropractic@yahoo.com">redgranitechiropractic@yahoo.com</a>
+  </div>
+  <div id="second2" class="inner">
+    <h1>Mailing Address</h1>
+    PO Box 447<br>
+    Redgranite, WI 54970<br>
+  </div>
+</div>
